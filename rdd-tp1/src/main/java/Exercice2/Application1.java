@@ -22,7 +22,7 @@ public class Application1 {
 			String els[]=r.split(" ");
 			return new Tuple2<String, Double>(els[1],Double.valueOf(els[3]));
 		});
-		rdd1.foreach(f->System.out.println(f));
+		//rdd1.foreach(f->System.out.println(f));
 		JavaPairRDD<String, Double> rddTotalVille=rddVente.reduceByKey((v1,v2)->v1+v2);
         rddTotalVille.foreach(nameTuple-> System.out.println(nameTuple._1()+" "+nameTuple._2()));
 	}
