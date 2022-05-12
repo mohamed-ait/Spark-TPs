@@ -4,6 +4,11 @@ import java.io.Serializable;
 
 public class Employe implements Serializable {
     private long id;
+
+    public Employe() {
+
+    }
+
     private String name;
     private String phone;
     private double salary;
