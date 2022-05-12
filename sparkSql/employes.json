@@ -1,0 +1,26 @@
+[
+  {
+    "id" : 1,
+    "name" : "employe1",
+    "phone" : "0625015242",
+    "salary" : 10000,
+    "age" : 30,
+    "departement" : "informatique"
+  },
+  {
+    "id" : 2,
+    "name" : "employe2",
+    "phone" : "0625142154",
+    "salary" : 15000,
+    "age" : 32,
+    "departement" : "mathematique"
+  },
+  {
+    "id" : 3,
+    "name" : "employe3",
+    "phone" : "0625015242",
+    "salary" : 9000,
+    "age" : 34,
+    "departement" : "économique"
+  }
+]

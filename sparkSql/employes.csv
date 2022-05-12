@@ -1,0 +1,7 @@
+id,name,phone,salary,age,departement
+1,employe1,0625124584,10000,35,informatique
+2,employe2,10000,0625123584,45,physique
+3,employe3,20000,0625121584,35,informatique
+4,employe4,15000,0625155584,25,economique
+5,employe5,15000,0625124584,25,economique
+6,employe6,25000,0625125484,50,physique
