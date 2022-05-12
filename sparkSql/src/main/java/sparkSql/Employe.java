@@ -4,16 +4,15 @@ import java.io.Serializable;
 
 public class Employe implements Serializable {
     private long id;
-
-    public Employe() {
-
-    }
-
     private String name;
     private String phone;
     private double salary;
     private long age;
     private String departement;
+    public Employe() {
+
+    }
+
 
     public Employe(long id, String name, String phone, double salary, long age, String departement) {
         this.id = id;
