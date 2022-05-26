@@ -1,0 +1,6 @@
+[
+  {"id": 1,"name": "Ahmed","age":29,"phone": "06238747283","salary": 12000,"departement": "dev"},
+  {"id": 1,"name": "Saad","age":31,"phone": "06768363748","salary": 13000,"departement":"dev"},
+  {"id": 1,"name": "Asmae","age":34,"phone": "07534348468","salary": 10000,"departement": "reseau"},
+  {"id": 1,"name": "Hajar","age":40,"phone": "065373684635","salary": 23000,"departement": "dev"}
+]
